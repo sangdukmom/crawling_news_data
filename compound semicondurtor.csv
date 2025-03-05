@@ -1,0 +1,78 @@
+제목	제목_링크	썸네일	필드2	필드3	btn	상세 제목	필드1
+Unleashing the potential of the JFET	https://compoundsemiconductor.net/article/121245/Unleashing_the_potential_of_the_JFET?DRAM	https://f001.backblazeb2.com/file/BIT-Magazine-Images/1740653268-Wafer_web.jpg	27th February 2025	"The acquisition of Qorvo’s SiC JFET portfolio 
+provides onsemi with a great opportunity to accelerate the adoption of 
+this class of transistor in circuit breakers, EV battery-disconnect 
+units and AI infrastructure.   BY RICHARD STEVENSON, EDITOR, CS MAGAZINE.."	Interviews	Unleashing the potential of the JFET - News	"Interview
+                                        
+
+                                        
+                                        
+
+                                    
+
+                                    
+
+
+
+
+                                    
+                                        
+
+                                        
+                                         
+                                           
+
+                                            
+                                                Follow (3951)
+                                            
+
+                                        
+
+                                            
+                                                Tweet
+                                            
+                                           
+                                            
+                                                Share
+                                            
+
+
+
+
+                                             
+                                            
+                                                E-mail
+                                            
+
+
+                                            
+                                                Add to reading list
+                                            
+
+                                            
+                                                Remove from reading list
+                                            
+
+                                        
+
+
+                                    
+
+                                  
+                                    Unleashing the potential of the JFET
+                                    
+                                        Thursday 27th February 2025
+                                        
+                                    
+                                    
+                                        
+                                            
+                                            
+                                        
+                                    
+                                     The acquisition of Qorvo’s SiC JFET portfolio 
+provides onsemi with a great opportunity to accelerate the adoption of 
+this class of transistor in circuit breakers, EV battery-disconnect 
+units and AI infrastructure.   BY RICHARD STEVENSON, EDITOR, CS MAGAZINE 
+                                     
+Back in the days of the global credit crunch, many pioneers of SiC transistors were striving to be the first to market with their own particular flavour of this technology.    Initially grabbing the headlines were the likes of Semisouth and SiCED, trailblazers of the JFET, and BJT pioneer TranSiC. But their products struggled to make an impression, and when Cree and Rohm introduced the SiC MOSFET, this duo laid the foundations for a market that’s now netting over a $1 billion per year and continuing to climb.    Based on this chain of events, it is easy to fall into the trap of concluding that the SiC MOSFET is superior to other forms of SiC transistor, which will never have a role to play. But one can also argue, for good reason, that some of the alternatives were ahead of their time, with circuit designers failing to appreciate their virtues and exploit them.    In a nut shell, that’s the view of Sergio Fissore, who holds the position of Vice President and General Manager, Multi-market Power Division, at the electronic components manufacturer onsemi, which has just completed a $115 million acquisition of Qorvo’s SiC JFET portfolio. Fissore believes that with this acquisition, onsemi will accelerate deployment of the JFET in EV battery-disconnect units, AI infrastructure and industrial solid-state circuit breakers, with total sales from this class of transistor netting several hundred million dollars per annum in the coming years.      Fissore argues that the SiC JFET, a device that’s today only available from onsemi, failed to make an impact when initially introduced in the late noughties, due to concerns related to practicality and the long-term reliability of wide bandgap devices. If more designers had taken a closer look at that device back then, they would have been impressed by its performance, as well as that of the BJT, a transistor Fissore worked on during his time at Fairchild. He recollects the reluctance of customers to take a risk with new device technologies impeded sales of the SiC BJT, which were also held back by a lack of expertise in how to drive this device – rather than applying a particular voltage, it’s the current that must be considered.       Tesla transformed the status quo with the adoption of SiC MOSFETs in its EVs, a move motivated by the opportunity to extend the driving range through an increase in power conversion efficiency, and a willingness to brush off the reliability risks and design complexities and resolve any issues that arose.    “Many of our customer realised that if an automotive company takes that risk, those risks were worth taking, given the benefits you get from a wide bandgap,” says Fissore.    He believes that today’s designers are more adventurous, with a willingness to design gate drives and controllers for many different device requirements. Now, wide bandgap devices are seen as just another type of transistor, and designers are focusing on value, selecting the transistor by considering cost at the system level.    One of the attractions of the JFET is its bang-per-buck. For a given on-resistance, this chip can be smaller than other forms of SiC transistor, and the cost of production is relatively low, with fewer mask layers required for its manufacture compared with that of the SiC MOSFET.    The downside of the JFET is that it’s normally-on. So, to provide a normally-off product with good switching and an acceptable level of ringing, the SiC JFET is paired with a low-voltage silicon MOSFET in a cascode configuration.    To optimise this combination, the JFET and the silicon MOSFET must be designed together and matched, a task that plays into the hands of companies such as onsemi, which have expertise in both forms of transistor.     Market opportunitiesonsemi sees a significant opportunity for its SiC JFET in solid-state circuit breakers. This device could replace electromechanical relays, which suffer from arcing that reduces their reliable lifespan when they are switched on and off, . As well as an attractive candidate for this application, the SiC JFET could find deployment in EV battery disconnects, thanks to its small size, high reliability and very low on-resistance.     Another opportunity for the JFET is in AI, a technology that has led to a dramatic increase in the power within each rack in the datacentres. The high-voltage AC supply from the mains has to be converted down to a 0.8 volt DC form as efficiently as possible. Inevitable losses occur that lead to heating, with air cooling already replaced by liquid cooling to ensure adequate thermal management.     “Our customers are saving twice, by using high-efficiency high-performance transistors. You need cheaper apparatus to cool, and you have less electrical energy wasted in heat, so you reduce the challenge of reliability,” enthuses Fissore.    In addition, designs with the SiC JFET can accommodate high frequencies, minimising the size of the inductors. This allows onsemi to compete with companies producing GaN transistors for this application.         An alternative to the superjunctiononsemi’s interest in the JFET started around five years ago, after realising that it would struggle to make an impression in the silicon superjunction market. The company identified the SiC JFET as a promising technology that would complement its SiC MOSFET portfolio, while offering the opportunity to go to higher frequencies.     Initially, onsemi invested internally, before changing direction and deciding to get to market more quickly through an acquisition.      Buying Qorvo’s SiC JFET business – which it had acquired in late 2021 through the acquisition of United Silicon Carbide – has given onsemi a broad SiC JFET portfolio, with over 80 products, spanning 650 volts to 1.7 kV. onsemi could have also developed a comparable family of SiC JFETs through internal development, but Fissore estimates that it would have taken three-to-four years to do so.    For $115 million, onsemi has obtained Qorvo’s SiC JFET business, its customers, a talented workforce, and IP related to planar and trench forms of this transistor. Little equipment came with the sale, as Qorvo outsourced JFET production, but onsemi is able to continue working with the foundries and sub-contractors.     Separating Qorvo’s JFET business from its other activities has been relatively easy for both sides, as the team working on the JFET were not heavily integrated with other activities. These new staff at onsemi are bringing much valuable experience, and they include those that invented JFET technology and have been working on this class of device for a couple of decades.     Substrate supply is not a concern for onsemi. As well as its own vertically integrated SiC supply chain, the company is able to work with the three suppliers that Qorvo has qualified – and it is looking to add to this list.    Another of onsemi’s goals is to refine its JFET portfolio by lowering the on-resistance, measured in milli-ohms, to what is described as “very low single digits”.     Efforts will also be directed at improving packaging, and introducing power modules capable of handling thousands of Amps.    Given the market opportunities for the JFET, Fissore forecasts that competition will emerge for sales within a few years.     Potential rivals are not a concern, and the focus is on ramping sales of the JFET to generate revenues worth hundreds of millions of dollars. “I'm sure we'll get there and stay as number-one market share as long as possible, meaning for decades,” claims Fissore.          Sergio Fissore holds the position of onsemi Vice President and General Manager, Multi-market Power Division. Fissore has previously worked at Infineon and the Fairchild, acquired by onsemi in 2016."
